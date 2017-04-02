@@ -1,7 +1,7 @@
 # MengerSponge
 Interactive Menger Sponge written in Swift 3 + SceneKit
 
-This an iOS app that uses SceneKit and is written in Swift 3.0. It displays a level 3 MengerSponge that will increment when the user taps on a sub-cube within the model.
+This an iOS app that displays a level 3 Menger Sponge. The app will create a deeper level of the fractal when the user taps on a sub-cube within the model.
 
 
 ## Video
